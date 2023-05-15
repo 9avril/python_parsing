@@ -1,0 +1,32 @@
+Row 1 ->
+0 Card: Card: C9300-24S-A OB Ports; Type: C9300-24S-A; Part Number: C9300-24S-A;
+1 Card: Card: C9300-NM-8X; Type: C9300-NM-8X; Part Number: C9300-NM-8X;
+
+Row 2 ->
+0 Un-Equipped
+1 Un-Equipped
+
+Row 3 ->
+0 Un-Equipped
+1 Un-Equipped
+
+Row 4 ->
+0 Un-Equipped
+1 Un-Equipped
+
+Row 5 ->
+0 Un-Equipped
+1 Un-Equipped
+
+Row 6 ->
+0 Un-Equipped
+1 Un-Equipped
+
+Row 7 ->
+0 Un-Equipped
+1 Un-Equipped
+
+Row 8 ->
+0 Un-Equipped
+1 Un-Equipped
+
