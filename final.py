@@ -11,7 +11,6 @@ from selenium.webdriver.support.ui import Select
 from bs4 import BeautifulSoup
 import pandas as pd
 from settings import nrdt_server, nrdt_user, nrdt_password
-import saveToExcel
 import os
 
 # Set parameters to start Chrome in headless mode
@@ -155,7 +154,5 @@ host_list = ['ashs-sbam-01", "MSCS-ACCR-01']
 
 for host in host_list:
     xmcShelfSpec(host)
-
-saveToExcel.saveToExcel('hosts_scraping.txt')
 
 driver.quit()
